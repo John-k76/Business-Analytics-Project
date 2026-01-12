@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQLite](https://img.shields.io/badge/SQLite-3.39-orange)
+
+Analyzed a simulated sales database to understand revenue trends, product performance, and customer concentration using SQL and Python.
+
+
 # SQL Business Analytics Project
 
 ## Project Overview
